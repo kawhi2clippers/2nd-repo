@@ -1,0 +1,28 @@
+ls -a 
+to see the hidden files in the directory.
+
+//touch <filename>
+with this command, a file is created with the <filename>.
+
+/// vim .gitignore
+*.jpg
+
+//when we're making a clone it is the copy of a repository.
+
+
+//to create a branch
+git branch <new branch>
+
+//to work on a new branch
+git checkout  <newbranch >
+
+//do both at once:
+git checkout -b <newbranch>
+
+//to commit every change without adding 
+git commit -a -m"<>"
+
+// to see the contents in a file
+cat <file>
+
+//
